@@ -32,11 +32,11 @@
 
 </p>
   
-  
+<!--   
 <p align="center">
 </p>
 
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=raj713335&theme=react-dark" height="350" width="850"/>
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=raj713335&theme=react-dark" height="350" width="850"/> -->
 
 <!-- ![Ankan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ankan1998&theme=react-dark) -->
 
