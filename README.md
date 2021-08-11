@@ -41,6 +41,6 @@
 <!-- ![Ankan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ankan1998&theme=react-dark) -->
 
 
-<img align="left" src="https://ionicabizau.github.io/github-profile-languages/api.html?raj713335" height="600" width="600"/>
+<!-- <img align="left" src="https://ionicabizau.github.io/github-profile-languages/api.html?raj713335" height="600" width="600"/> -->
 
 
