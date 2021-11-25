@@ -10,7 +10,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Deep Neural Networks.
+- 🔭 I’m currently working on Deep Neural Networks .
 - 🌱 I’m currently learning Natural Language Processing.
 - 👯 I’m looking to collaborate on Machine Learning Projects.
 - 🤔 I’m looking for help with PoseNet.
