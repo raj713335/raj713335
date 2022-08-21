@@ -20,6 +20,13 @@
 - ⚡ Fun fact: Intuition fails in higher dimensions.
 
 
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/raj713335/cf-stats/main/output/light_card.svg" />
+</p>
+
+
 
   <a href="https://wa.me/9547966499?text=Hello%20Arnab">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
