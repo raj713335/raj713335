@@ -21,14 +21,21 @@
 
 
 <b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj713335&show_icons=true&hide_border=true&layout=compact&langs_count=10" />
+< br/>
+<p>
+<img align="left" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" height="200" width="390"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj713335&show_icons=true&hide_border=true&layout=compact&langs_count=10" height="200" width="390" />
 </p>
 
 
 
-  <a href="https://wa.me/9547966499?text=Hello%20Arnab">
+
+<p>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=raj713335&theme=default&hide_border=true" height="200" width="390"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=raj713335&theme=default&show_icons=true&count_private=true&hide_border=true" height="200" width="390"/>
+  
+  
+    <a href="https://wa.me/9547966499?text=Hello%20Arnab">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arnab-das-732515143/">
@@ -46,18 +53,6 @@
   </a>
 
 
-<!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
- -->
-
-
-
-
-
-
-
-<p>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=raj713335&theme=default&hide_border=true" height="200" width="390"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=raj713335&theme=default&show_icons=true&count_private=true&hide_border=true" height="200" width="390"/>
 
 
 
