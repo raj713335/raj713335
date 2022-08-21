@@ -12,6 +12,9 @@
   <a href="https://github.com/raj713335?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/raj713335?color=green&logo=github">
   </a>
+  <a href="https://www.hackerrank.com/raj713335">
+    <img alt="HackerRank followers" src="https://img.shields.io/badge/Hackerrank-Arnab%20-green.svg">
+  </a>
 
 </p>
 
