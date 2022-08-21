@@ -31,6 +31,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/arnab-das-732515143 or https://raj713335.github.io/WEB_APP/ .
 - 😄 Pronouns: I love Cats.
 - ⚡ Fun fact: Intuition fails in higher dimensions.
+- 📝 Checkout my [Resume](FILE/Resume.pdf).
 
 #### Development Stuffs:
 
