@@ -34,7 +34,7 @@
 
 #### Development Stuffs:
 
-<b>&#128200; Competitive Programming</b> and <b>⚡ Github Stats</b>
+<b>&#128200; Competitive Programming and ⚡ Github Stats</b>
 
 
 <p float="left">
