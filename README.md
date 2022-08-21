@@ -1,6 +1,19 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-### Hi there 👋
+### Hi there 👋, I'm a Professional software engineer and Computer Researcher
+
+<p align="left">
+  <a href="https://leetcode.com/raj713335/">
+    <img src="https://cp-logo.vercel.app/leetcode/raj713335" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/9674286/arnab-das">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9674286?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/raj713335?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/raj713335?color=green&logo=github">
+  </a>
+
+</p>
 
 
 
