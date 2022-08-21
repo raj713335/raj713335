@@ -23,7 +23,7 @@
 <b>&#128200; Competitive Programming</b>
 
 
-<p>
+<p float="left">
 <img align="left" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" height="200" width="400"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj713335&show_icons=true&hide_border=true&layout=compact&langs_count=10" height="200" width="400" />
 </p>
@@ -31,7 +31,7 @@
 
 
 
-<p>
+<p float="left">
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=raj713335&theme=default&hide_border=true" height="200" width="400"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=raj713335&theme=default&show_icons=true&count_private=true&hide_border=true" height="200" width="400"/>
 </p>
@@ -41,17 +41,17 @@
 <p left="center">
   
 <a href="https://wa.me/9547966499?text=Hello%20Arnab">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="30px" />    
 </a>
   
 <a href="https://www.linkedin.com/in/arnab-das-732515143/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
 </a>
 <a href="https://github.com/raj713335">
-  <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+  <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" height="30px" />        
 </a>
 <a href="https://twitter.com/raj713335">
-  <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px" />        
 </a>
 <a href="https://www.buymeacoffee.com/raj713335" target="_blank" align="center">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px" >
