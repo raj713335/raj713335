@@ -32,8 +32,9 @@
 - 😄 Pronouns: I love Cats.
 - ⚡ Fun fact: Intuition fails in higher dimensions.
 
+#### Development Stuffs:
 
-<b>&#128200; Competitive Programming</b>
+<b>&#128200; Competitive Programming</b> and <b>⚡ Github Stats</b>
 
 
 <p float="left">
