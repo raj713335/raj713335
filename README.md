@@ -15,7 +15,6 @@
   <a href="https://www.hackerrank.com/raj713335">
     <img alt="HackerRank followers" src="https://img.shields.io/badge/Hackerrank-Arnab%20-green.svg">
   </a>
-
 </p>
 
 
