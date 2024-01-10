@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm a Professional software engineer and Computer Researcher
 
 <p align="left">
-  <a href="https://leetcode.com/raj713335/">
+  <a href="https://leetcode.com/raj713335">
     <img src="https://cp-logo.vercel.app/leetcode/raj713335" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/9674286/arnab-das">
