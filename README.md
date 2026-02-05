@@ -1,39 +1,42 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-### Hi there 👋, I'm a Professional software engineer and Computer Researcher
+# 👋 Arnab Das  
+## Senior Software Engineer | AI Engineer | System Design Instructor | Udemy Educator
 
-<p align="left">
-  <a href="https://leetcode.com/raj713335">
-    <img src="https://cp-logo.vercel.app/leetcode/raj713335" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/9674286/arnab-das">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9674286?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/raj713335?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/raj713335?color=green&logo=github">
-  </a>
-  <a href="https://www.hackerrank.com/raj713335">
-    <img alt="HackerRank followers" src="https://img.shields.io/badge/Hackerrank-Arnab%20-green.svg">
-  </a>
+Backend • Distributed Systems • Generative AI • API Gateways • Cloud Native Engineering
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raj713335&style=flat-square&color=blue"/>
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/raj713335"><img src="https://cp-logo.vercel.app/leetcode/raj713335"/></a>
+<a href="https://github.com/raj713335"><img src="https://img.shields.io/github/followers/raj713335?color=green&logo=github"/></a>
+<a href="https://www.udemy.com/user/arnab-das-65/"><img src="https://img.shields.io/badge/Udemy-Instructor-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></a>
 </p>
 
 
 
-<!--
-**raj713335/raj713335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile .
--->
+## Professional Summary
 
-<!--Here are some ideas to get you started:-->
+Senior Software Engineer and Computer Researcher specializing in:
 
-- 🔭 I’m currently working on Deep Neural Network.
-- 🌱 I’m currently learning Natural Language Processing.
-- 👯 I’m looking to collaborate on Machine Learning Projects.
-- 🤔 I’m looking for help with PoseNet.
-- 💬 Ask me about anything and everything.
-- 📫 How to reach me: https://www.linkedin.com/in/raj713335 or https://raj713335.github.io/WEB_APP/ .
-- 😄 Pronouns: I love Cats.
-- ⚡ Fun fact: Intuition fails in higher dimensions.
-- 📝 Checkout my [Resume](FILE/Resume.pdf).
+- Distributed Backend Systems  
+- Artificial Intelligence and Machine Learning
+- Generative AI & Agentic Architectures  
+- API Gateway Engineering (Kong)  
+- Identity & Security (Keycloak)  
+- System Design & Data Structures  
+
+I design **production-grade platforms** and teach **industry-ready engineering**.
+
+I’m also a **Udemy Instructor**, helping thousands of students master:
+
+✅ Data Structures & Algorithms  
+✅ System Design HLD & LLD
+✅ AI Agents  
+✅ Kong API Gateway  
+✅ Keycloak SSO  
 
 #### Development Stuffs:
 
@@ -78,5 +81,3 @@
 </a>
   
 </p>
-
-
