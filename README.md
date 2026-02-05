@@ -33,7 +33,7 @@ I design **production-grade platforms** and teach **industry-ready engineering**
 I’m also a **Udemy Instructor**, helping thousands of students master:
 
 ✅ Data Structures & Algorithms  
-✅ System Design HLD & LLD
+✅ System Design (HLD & LLD)
 ✅ AI Agents  
 ✅ Kong API Gateway  
 ✅ Keycloak SSO  
@@ -45,7 +45,7 @@ I’m also a **Udemy Instructor**, helping thousands of students master:
 
 <p float="left">
   <img align="left" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" height="200" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj713335&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj713335&theme=default" height="200" width="400"/>
 </p>
 
 
