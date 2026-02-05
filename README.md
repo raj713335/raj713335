@@ -44,7 +44,7 @@ I’m also a **Udemy Instructor**, helping thousands of students master:
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj713335&theme=default" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj713335&theme=default" height="600" width="400"/>
 </p>
 
 <br/>
