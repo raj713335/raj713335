@@ -44,16 +44,15 @@ I’m also a **Udemy Instructor**, helping thousands of students master:
 
 
 <p float="left">
-<img align="left" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" height="200" width="400"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj713335&show_icons=true&hide_border=true&layout=compact&langs_count=10" height="200" width="400" />
+  <img align="left" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" height="200" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj713335&theme=default"/>
 </p>
 
 
 
 
 <p float="left">
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=raj713335&theme=default&hide_border=true" height="200" width="400"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=raj713335&theme=default&show_icons=true&count_private=true&hide_border=true" height="200" width="400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj713335&bg_color=ffffff&color=0aabf0&line=0aabf0&point=dedede&hide_border=true"/>
 </p>
   
 #### Connect With Me
